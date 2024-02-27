@@ -1,6 +1,6 @@
 # N-body Simulator for Gravitational Objects
-Project developed for Advanced Methods for Scientific Computing course of the HPC Engineering degree at Politecnico di Milano.
-
+Project developed for Advanced Methods for Scientific Computing course of the HPC Engineering degree at Politecnico di Milano. \
+Originally developed in [this repository](https://github.com/jacopopalumbo01/N-Body-simulator).
 ## Students
 
 1. Jacopo Palumbo (jacopo.palumbo@mail.polimi.it)
